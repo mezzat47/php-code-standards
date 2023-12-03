@@ -19,6 +19,34 @@ Please make sure these boxes are checked before submitting or approving the PR :
   - [ ] Blocks of code inside loops are as small as possible
   - [ ] Performance is considered
 
+# Code-Style
+  - [ ] All properties and methods in camelCase
+  - [ ] Constant names in UPPER_CASE
+  - [ ] All class names in StandlyCase
+  - [ ] Opening brace of classes or functions on a new line
+  - [ ] Opening brace of if-for on the same line
+  - [ ] Use code auto-formatting (PHPshorm Ctrl+Alt+L)
+  - [ ] Describing the fields of the @property class
+  - [ ] All variables on a new line and do not use multiple assignments ($a = $b = $c = 1)
+  - [ ] Dont use long lines of code that go off the screen (Maximum 120 characters)
+
+# Code-Flow
+  - [ ] DRY (Dont repeat your code)
+  - [ ] Clear variable names without $result, $array, $data, $return etc
+  - [ ] Clear method names setData, getData, isData etc
+  - [ ] Each method should contain the type of incoming and outgoing data
+  - [ ] Use proper quotes '' and ""
+  - [ ] Use properly public and private for methods and properties
+  - [ ] Class structure (properties, constructor, methods)
+  - [ ] Don't use nested if conditions
+  - [ ] Do not put SQL queries in a loop
+  - [ ] We use constants for naming constant numbers and strings
+  - [ ] Controller->Service->Repo
+  - [ ] All requests to Entity via Repo
+  - [ ] Use conditions through ?? instead of ?:
+  - [ ] Dont use root slashes in the object in the code, only when connecting through use
+  - [ ] Only array formation [], and do not use the old array()
+
 # Architecture
   - [ ] Design patterns if used are correctly applied
   - [ ] A class should have only a single responsibility 
