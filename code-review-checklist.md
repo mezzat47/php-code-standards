@@ -1,4 +1,6 @@
-Make sure these boxes are checked before submitting/approving the PR
+
+
+Please make sure these boxes are checked before submitting or approving the PR :+1:
 
 # General
   - [ ] The code works
