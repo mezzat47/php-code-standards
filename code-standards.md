@@ -1,8 +1,8 @@
-# php-code-stranded
+# php-code-standards :earth_africa:
 
 #### This is a set of programming exercises aimed at improving object-oriented design skills. These exercises provide constraints and rules to encourage developers to write more maintainable and understandable code. While not a set of strict rules, they promote principles and practices that align with good object-oriented design.
 
-## A. Simple Rules for Simpler Code:
+## A. Simple Rules for Simpler Code :coffee:
 
 ### 1. Only One Level of Indentation per Method
 The main idea is that each method only performs one action. This way, we are making the code easier to read and maintain. In addition to promoting the Single Responsibility Principle and avoiding the Hadouken effect. You can extract behaviours for other methods by ensuring a single indentation level. By doing this, you are also applying the Extract Method Pattern.
@@ -376,6 +376,6 @@ class Buyer {
 ```
 ---
 
-## B. [Read PSR-2 Coding Style guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+## B. [Read PSR-2 Coding Style guide :coffee:](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 
-## C. [Read Clean Code & SOLID In PHP](https://github.com/piotrplenik/clean-code-php)
+## C. [Read Clean Code & SOLID In PHP :coffee:](https://github.com/piotrplenik/clean-code-php)
