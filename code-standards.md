@@ -378,4 +378,4 @@ class Buyer {
 
 ## B. [Read PSR-2 Coding Style guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 
-## C. [Read Clean Code In PHP](https://github.com/piotrplenik/clean-code-php)
+## C. [Read Clean Code & SOLID In PHP](https://github.com/piotrplenik/clean-code-php)
