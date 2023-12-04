@@ -376,6 +376,6 @@ class Buyer {
 ```
 ---
 
-## B. [Read PSR-2 Coding Style guide :coffee:](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+## B. Read [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) Coding Style Guide and [PSR-12](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-12-extended-coding-style-guide.md) Extended Coding Style Guide  :coffee:
 
 ## C. [Read Clean Code & SOLID In PHP :coffee:](https://github.com/piotrplenik/clean-code-php)
